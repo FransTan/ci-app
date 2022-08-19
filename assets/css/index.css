@@ -1,0 +1,14 @@
+/* Cart */
+.cart__button {
+	color: black;
+}
+.cart__button:hover {
+	color: white;
+}
+
+.image__payment {
+	width: 100px;
+	border: none;
+	height: 100px;
+	object-fit: contain;
+}
